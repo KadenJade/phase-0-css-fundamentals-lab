@@ -1,5 +1,30 @@
+header{
+  text-align: center;
+}
+#photo{
+justify-content: center;
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+a{
+  padding: 10px 10px;
+  background: gray;
+}
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+#featured-property > p{
+  width: 800px;
+  text-align: center;
+  padding-top: 3px;
+}
+div{
+  float: left;
+  background-color: aqua;
+  text-align: center;
+  width: 25%;
 }
